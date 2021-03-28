@@ -9,6 +9,7 @@
 	}
 	form{
 		width: 700px;
+		font-family: Comic Sans MS;
 	}
 	*{
 		font-size: 25px;
